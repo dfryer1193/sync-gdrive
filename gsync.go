@@ -1,4 +1,0 @@
-package sync
-
-func main() {
-}
